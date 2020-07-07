@@ -1,0 +1,11 @@
+/*
+* BF2 - Bot facebook and brute facebook
+* Author      : Rahmat Hidayat (Mamet Nugraha)
+* License     : https://w3llsquad.or.id
+* Version     : 1.1
+* Last Update : 08-07-2020
+* Contact     -
+* Whatsapp    : https://w3llsquad.or.id/s/Wod2c0b
+* Facebook    : https://facebook.com/mametdongonew
+* Instagram   : https://instagram.com/mamet_nugraha06
+*/
